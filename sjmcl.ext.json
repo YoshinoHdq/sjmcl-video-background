@@ -1,0 +1,11 @@
+{
+  "identifier": "org.sjmcl.video-background",
+  "name": "动态视频背景",
+  "description": "上传 MP4/WebM 视频作为启动器动态背景，可与天气特效叠加",
+  "version": "0.1.0",
+  "author": "hemekewayoshino",
+  "frontend": {
+    "entry": "frontend/index.js"
+  },
+  "minimalLauncherVersion": "1.1.3"
+}
