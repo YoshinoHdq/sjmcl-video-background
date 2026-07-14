@@ -24,7 +24,7 @@
 ## 使用方法
 
 1. 在 Releases 下载 org.sjmcl.video-background.sjmclx
-2. 打开 SJMCL → 设置 → 扩展管理 → 导入
+2. 打开 SJMCL → 设置 → 扩展管理 → 导入，插件支持选择文件导入和拖动导入
 3. 在扩展设置页上传你的 MP4 或 WebM 视频
 
 ## 兼容性
